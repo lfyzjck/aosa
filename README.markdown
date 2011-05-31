@@ -14,3 +14,14 @@ jekyll --server
 Just can't wait, so I decide to translate [The Architecture of Open Source Applications](http://www.aosabook.org/en/) into Chinese on my own. Please e-mail to [bhuztez+aosa@gmail.com](mailto:bhuztez+aosa@gmail.com) if I made a mistake.
 
 
+License
+=======
+
+The origin work is [licensed under Creative Commons Attribution 3.0 Unported](http://www.aosabook.org/en/index.html#license).
+
+The translation is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported.
+
+
+
+
+

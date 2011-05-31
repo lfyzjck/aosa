@@ -3,51 +3,62 @@ layout: default
 title: 开源应用程序架构
 ---
 
-
-Amy Brown and Greg Wilson (eds.)
+编辑：Amy Brown，Greg Wilson
 
 Lulu.com, 2011, 978-1-257-63801-7
 
 
 
-License
--------
+建筑师在培训时要研究数以千计的建筑以及大师们对这些建筑的评价。与此相反，大多数软件开发人员只了解没多少大型程序——通常是那些他们自己写的程序——而且从不研究史上的优秀程序。因此，他们经常会重复别人的错误，而不是在别人成功的基础上开发。
 
-This work is made available under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/legalcode).
+本书企图改变这种情况。书中共涉及二十五个开源应用程序，它们的作者解释了他们的软件是怎么组织起来的，和为什么是这样组织的。每个程序的主要组件是什么？它们是怎么交互的？开发人员在开发的过程中学到了什么？通过回答这些问题，本书的撰稿人对他们的思考提供了独到的见解。
+
+如果你是一个新手，你想了解资深的同事是怎么思考的，本书是个很好的开始。如果你是一个中等或资深开发者，你可以通过本书了解你的同行是怎么解决困难的设计问题的。
+
+> ...一本精彩的书，对产业巨大的贡献
+>
+> – [Grady Booch](http://en.wikipedia.org/wiki/Grady_Booch)
 
 
 
-目录
-----
+## 协议
 
-|	|Introduction 	|Amy Brown and Greg Wilson
-|1. 	|Asterisk 	|Russell Bryant
-|2. 	|Audacity 	|James Crook 	|
-|3. 	|The Bourne-Again Shell 	|Chet Ramey 	|
-|4. 	|Berkeley DB 	|Margo Seltzer and Keith Bostic 	|
-|5. 	|CMake 	|Bill Hoffman and Kenneth Martin 	|
-|6. 	|Eclipse 	|Kim Moir 	|
-|7. 	|Graphite 	|Chris Davis 	|
-|8. 	|The Hadoop Distributed File System 	|Robert Chansler, Hairong Kuang, Sanjay Radia, Konstantin Shvachko, and Suresh Srinivas 	|
-|9. 	|Continuous Integration 	|C. Titus Brown and Rosangela Canino-Koning 	|
-|10. 	|Jitsi 	|Emil Ivov 	|
-|11. 	|LLVM 	|Chris Lattner 	|
-|12. 	|Mercurial 	|Dirkjan Ochtman 	|
-|13. 	|The NoSQL Ecosystem 	|Adam Marcus 	|
-|14. 	|Python Packaging 	|Tarek Ziadé 	|
-|15. 	|Riak and Erlang/OTP 	|Francesco Cesarini, Andy Gross, and Justin Sheehy 	|
-|16. 	|Selenium WebDriver 	|Simon Stewart 	|
-|17. 	|Sendmail 	|Eric Allman 	|
-|18. 	|SnowFlock 	|Roy Bryant and Andrés Lagar-Cavilla 	|
-|19. 	|SocialCalc 	|Audrey Tang 	|
-|20. 	|Telepathy 	|Danielle Madeley 	|
-|21. 	|Thousand Parsec 	|Alan Laudicina and Aaron Mavrinac 	|
-|22. 	|Violet 	|Cay Horstmann 	|
-|23. 	|VisTrails 	|Juliana Freire, David Koop, Emanuele Santos, Carlos Scheidegger, Claudio Silva, and Huy T. Vo 	|
-|24. 	|VTK 	|Berk Geveci and Will Schroeder 	|
-|25. 	|Battle For Wesnoth 	|Richard Shimooka and David White 	|
-|	|Bibliography 	|
-|	|Making Software 	|
+
+[原作](http://www.aosabook.org/en/index.html)以[知识共享-署名3.0协议](http://creativecommons.org/licenses/by/3.0/legalcode)授权使用。翻译以[知识共享-署名-非商业性使用-相同方式共享3.0协议](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)授权使用。
+
+
+
+## 目录
+
+
+|		|前言	 								|Amy Brown and Greg Wilson
+|1. 	|Asterisk 								|Russell Bryant
+|2. 	|Audacity 								|James Crook
+|3. 	|The Bourne-Again Shell				 	|Chet Ramey
+|4. 	|Berkeley DB 							|Margo Seltzer and Keith Bostic
+|5. 	|CMake 									|Bill Hoffman and Kenneth Martin
+|6. 	|Eclipse 								|Kim Moir
+|7. 	|Graphite 								|Chris Davis
+|8. 	|The Hadoop Distributed File System 	|Robert Chansler, Hairong Kuang, Sanjay Radia, Konstantin Shvachko, and Suresh Srinivas
+|9. 	|Continuous Integration 				|C. Titus Brown and Rosangela Canino-Koning
+|10. 	|Jitsi								 	|Emil Ivov
+|11. 	|LLVM 									|Chris Lattner
+|12. 	|Mercurial							 	|Dirkjan Ochtman
+|13. 	|The NoSQL Ecosystem 					|Adam Marcus
+|14. 	|Python Packaging 						|Tarek Ziadé
+|15. 	|Riak and Erlang/OTP 					|Francesco Cesarini, Andy Gross, and Justin Sheehy
+|16. 	|Selenium WebDriver 					|Simon Stewart
+|17. 	|Sendmail 								|Eric Allman
+|18. 	|SnowFlock 								|Roy Bryant and Andrés Lagar-Cavilla
+|19. 	|SocialCalc 							|Audrey Tang
+|20. 	|Telepathy 								|Danielle Madeley
+|21. 	|Thousand Parsec 						|Alan Laudicina and Aaron Mavrinac
+|22. 	|Violet 								|Cay Horstmann
+|23. 	|VisTrails 								|Juliana Freire, David Koop, Emanuele Santos, Carlos Scheidegger, Claudio Silva, and Huy T. Vo
+|24. 	|VTK 									|Berk Geveci and Will Schroeder
+|25. 	|韦诺之战 								|Richard Shimooka and David White
+|		|参考文献 								|
+
 
 
 
