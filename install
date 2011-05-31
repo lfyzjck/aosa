@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+export GEM_HOME="$(pwd)/gem_env"
+export RUBYLIB="${GEM_HOME}/lib/ruby/site_ruby:${GEM_HOME}/lib"
+mkdir -p "${GEM_HOME}/bin"
+export PATH="${GEM_HOME}/bin:${PATH}"
+
+cat > "${GEM_HOME}/bin/activate" << EOF 
+#!/usr/bin/env bash
+
+export GEM_HOME="${GEM_HOME}"
+export PATH="${GEM_HOME}/bin:\${PATH}"
+export RUBYLIB="${GEM_HOME}/lib/ruby/site_ruby:\${RUBYLIB}"
+EOF
+
+chmod u+x "${GEM_HOME}/bin/activate"
+
+gem install RedCloth
+gem install kramdown
+gem install jekyll
+

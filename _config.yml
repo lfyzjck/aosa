@@ -1,0 +1,6 @@
+pygments: true
+markdown: kramdown
+exclude:
+  - gem_env
+  - install
+  - README.markdown
