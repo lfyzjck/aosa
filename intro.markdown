@@ -3,7 +3,7 @@ layout: default
 title: 前言
 ---
 
-# Amy Brown, Greg Wilson
+# [Amy Brown](intro.html#brown-amy), [Greg Wilson](intro.html#wilson-greg)
 
 木工是一门很困难的工艺，人们可以花费一辈子来学习如何把它做好。但是木工不是建筑学：如果我们跳出pitch boards and miter joints这样的细节来看，建筑作为整体是需要设计的，这既是一门艺术也是一门工艺或者科学。
 
@@ -21,3 +21,10 @@ title: 前言
 
 
 
+*Amy Brown （编辑）*{: #brown-amy}: Amy拥有滑铁卢大学的数学学士学位，在软件业有十年从业经历。现在她写也编辑一些书，有些是关于软件的。她住在多伦多，有两个孩子和一只很老的猫。
+
+
+*Dirkjan Ochtman (Mercurial)*{: #ochtman-dirkjan}: 2010年，Dirkjan计算机硕士毕业。他曾在一家金融行业的初创公司工作过3年。如果不消磨他的空余时间，he hacks on Mercurial, Python, Gentoo Linux and a Python CouchDB library。他住在美丽的城市阿姆斯特丹。他的个人网站是<http://dirkjan.ochtman.nl/>。
+
+
+*Greg Wilson (editorial)*{: #wilson-greg}: 在过去的25年里，Greg工作在高性能科学计算、数据可视化和计算机安全领域，是几本计算机书籍(including the 2008 Jolt Award winner Beautiful Code)以及两本儿童读物的作者或者编辑。1993年，Greg获得了爱丁堡大学的博士学位。他在<http://third-bit.com>和<http://software-carpentry.org>写博客。

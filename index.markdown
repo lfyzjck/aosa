@@ -22,7 +22,7 @@ Lulu.com, 2011, 978-1-257-63801-7
 
 如果你是一个新手，你想了解资深的同事是怎么思考的，本书是个很好的开始。如果你是一个中等或资深开发者，你可以通过本书了解你的同行是怎么解决困难的设计问题的。
 
-> ...一本精彩的书，对产业巨大的贡献
+> ...一本精彩的书，对业界巨大的贡献
 >
 > – [Grady Booch](http://en.wikipedia.org/wiki/Grady_Booch)
 
@@ -38,32 +38,32 @@ Lulu.com, 2011, 978-1-257-63801-7
 ## 目录
 
 
-|	|[前言](intro.html)					|Amy Brown and Greg Wilson
-|1. 	|[Asterisk](asterisk.html)				|Russell Bryant
-|2. 	|[Audacity](audacity.html)				|James Crook
-|3. 	|[The Bourne-Again Shell](bash.html)			|Chet Ramey
-|4. 	|[Berkeley DB](bdb.html)				|Margo Seltzer and Keith Bostic
-|5. 	|[CMake](cmake.html)					|Bill Hoffman and Kenneth Martin
-|6. 	|[Eclipse](eclipse.html)				|Kim Moir
-|7. 	|[Graphite](graphite.html)				|Chris Davis
-|8. 	|[The Hadoop Distributed File System](hdfs.html)	|Robert Chansler, Hairong Kuang, Sanjay Radia, Konstantin Shvachko, and Suresh Srinivas
-|9. 	|[Continuous Integration](integration.html)		|C. Titus Brown and Rosangela Canino-Koning
-|10. 	|[Jitsi](jitsi.html)					|Emil Ivov
-|11. 	|[LLVM](llvm.html)					|Chris Lattner
-|12. 	|[Mercurial](mercurial.html)				|Dirkjan Ochtman
-|13. 	|[The NoSQL Ecosystem](nosql.html)			|Adam Marcus
-|14. 	|[Python Packaging](packaging.html)			|Tarek Ziadé
-|15. 	|[Riak and Erlang/OTP](riak.html)			|Francesco Cesarini, Andy Gross, and Justin Sheehy
-|16. 	|[Selenium WebDriver](selenium.html)			|Simon Stewart
-|17. 	|[Sendmail](sendmail.html)				|Eric Allman
-|18. 	|[SnowFlock](snowflock.html)				|Roy Bryant and Andrés Lagar-Cavilla
-|19. 	|[SocialCalc](socialcalc.html)				|Audrey Tang
-|20. 	|[Telepathy](telepathy.html) 				|Danielle Madeley
-|21. 	|[Thousand Parsec](thousandparsec.html)			|Alan Laudicina and Aaron Mavrinac
-|22. 	|[Violet](violet.html)					|Cay Horstmann
-|23. 	|[VisTrails](vistrails.html)				|Juliana Freire, David Koop, Emanuele Santos, Carlos Scheidegger, Claudio Silva, and Huy T. Vo
-|24. 	|[VTK](vtk.html)					|Berk Geveci and Will Schroeder
-|25. 	|[韦诺之战](wesnoth.html)					|Richard Shimooka and David White
+|	|[前言](intro.html)					|[Amy Brown](intro.html#brown-amy) and [Greg Wilson](intro.html#wilson-greg)
+|1. 	|[Asterisk](asterisk.html)				|[Russell Bryant](intro.html#bryant-russell)
+|2. 	|[Audacity](audacity.html)				|[James Crook](intro.html#crook-james)
+|3. 	|[The Bourne-Again Shell](bash.html)			|[Chet Ramey](intro.html#ramey-chet)
+|4. 	|[Berkeley DB](bdb.html)				|[Margo Seltzer](intro.html#seltzer-margo) and [Keith Bostic](intro.html#bostic-keith)
+|5. 	|[CMake](cmake.html)					|[Bill Hoffman](intro.html#hoffman-bill) and [Kenneth Martin](intro.html#martin-kenneth)
+|6. 	|[Eclipse](eclipse.html)				|[Kim Moir](intro.html#moir-kim)
+|7. 	|[Graphite](graphite.html)				|[Chris Davis](intro.html#davis-chris)
+|8. 	|[The Hadoop Distributed File System](hdfs.html)	|[Robert Chansler](intro.html#chansler-robert"), [Hairong Kuang](intro.html#kuang-hairong), [Sanjay Radia](intro.html#radia-sanjay), [Konstantin Shvachko](intro.html#shvachko-konstantin), and [Suresh Srinivas](intro.html#srinivas-suresh)
+|9. 	|[Continuous Integration](integration.html)		|[C. Titus Brown](intro.html#brown-titus) and [Rosangela Canino-Koning](intro.html#canino-koning-rosangela)
+|10. 	|[Jitsi](jitsi.html)					|[Emil Ivov](intro.html#ivov-emil)
+|11. 	|[LLVM](llvm.html)					|[Chris Lattner](intro.html#lattner-chris)
+|12. 	|[Mercurial](mercurial.html)				|[Dirkjan Ochtman](intro.html#ochtman-dirkjan)
+|13. 	|[The NoSQL Ecosystem](nosql.html)			|[Adam Marcus](intro.html#marcus-adam)
+|14. 	|[Python Packaging](packaging.html)			|[Tarek Ziadé](intro.html#ziade-tarek)
+|15. 	|[Riak and Erlang/OTP](riak.html)			|[Francesco Cesarini](intro.html#cesarini-francesco), [Andy Gross](intro.html#gross-andy), and [Justin Sheehy](intro.html#sheehy-justin)
+|16. 	|[Selenium WebDriver](selenium.html)			|[Simon Stewart](intro.html#stewart-simon)
+|17. 	|[Sendmail](sendmail.html)				|[Eric Allman](intro.html#allman-eric)
+|18. 	|[SnowFlock](snowflock.html)				|[Roy Bryant](intro.html#bryant-roy) and [Andrés Lagar-Cavilla](intro.html#lagar-cavilla-andres)
+|19. 	|[SocialCalc](socialcalc.html)				|[Audrey Tang](intro.html#tang-audrey)
+|20. 	|[Telepathy](telepathy.html) 				|[Danielle Madeley](intro.html#madeley-danielle)
+|21. 	|[Thousand Parsec](thousandparsec.html)			|[Alan Laudicina](intro.html#laudicina-alan) and [Aaron Mavrinac](intro.html#mavrinac-aaron)
+|22. 	|[Violet](violet.html)					|[Cay Horstmann](intro.html#horstmann-cay)
+|23. 	|[VisTrails](vistrails.html)				|[Juliana Freire](intro.html#freire-juliana), [David Koop](intro.html#koop-david), [Emanuele Santos](intro.html#santos-emanuele), [Carlos Scheidegger](intro.html#scheidegger-carlos), [Claudio Silva](intro.html#silva-claudio), and [Huy T. Vo](intro.html#vo-huy)
+|24. 	|[VTK](vtk.html)					|[Berk Geveci](intro.html#geveci-berk) and [Will Schroeder](intro.html#schroeder-will)
+|25. 	|[韦诺之战](wesnoth.html)				|[Richard Shimooka](intro.html#shimooka-richard) and [David White](intro.html#white-david)
 |	|[参考文献](bibliography.html)				|
 
 
