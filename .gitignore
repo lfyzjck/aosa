@@ -1,3 +1,5 @@
 *~
+*.swp
 gem_env/
 _site/
+
